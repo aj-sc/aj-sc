@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, aj-sc here
 
 - 🔭 I’m currently working on: Improving my Python skills.
 - 🌱 I’m currently learning:
