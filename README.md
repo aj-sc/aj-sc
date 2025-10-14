@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Improving my Python skills.
 - 🌱 I’m currently learning:
   - DBT
-  - Kotlin (as a side hobby).
+  - Kotlin.
 
 <!--
 **aj-sc/aj-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
