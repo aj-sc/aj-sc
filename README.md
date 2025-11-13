@@ -1,9 +1,9 @@
 ## Hello, aj-sc here
 
-- 🔭 I’m currently working on: Improving my Python skills.
+- 🔭 I’m currently working on: Improving my Python and JavaScript skills.
 - 🌱 I’m currently learning:
   - DBT
-  - Kotlin
+  - React
 
 <!--
 **aj-sc/aj-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
