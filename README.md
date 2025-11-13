@@ -1,6 +1,8 @@
 ## Hello, aj-sc here
 
-- 🔭 I’m currently working on: Improving my Python and JavaScript skills.
+- 🔭 I’m currently working on:
+  - Improving my Python and JavaScript skills.
+    
 - 🌱 I’m currently learning:
   - DBT
   - React
