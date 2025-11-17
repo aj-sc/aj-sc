@@ -5,7 +5,8 @@
     
 - 🌱 I’m currently learning:
   - DBT
-  - React
+  - TypeScript
+  - Angular
   - FastAPI
 
 <!--
